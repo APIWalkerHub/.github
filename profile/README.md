@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to APIWalkerHub, the GitHub organization dedicated to API and Cloud experts coming together to provide resources, templates, scripts, and accelerators for simplifying the creation and deployment of APIs using various technologies. Our primary focus is on MuleSoft, but our repository aims to support a wide array of API technologies to meet the diverse needs of developers and organizations.
+APIWalkerHub is a GitHub organization founded by the experts who are also the founders of API Walker, a company specializing in API and cloud technologies. With a deep understanding of the industry, our team is dedicated to simplifying the API development and deployment process. We provide a wealth of resources, templates, scripts, and accelerators to help developers and organizations create and deploy APIs using various technologies, with a primary focus on MuleSoft. Welcome to your API acceleration hub!
 
 ## About API Walker
 
